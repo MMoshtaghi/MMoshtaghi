@@ -1,6 +1,6 @@
 ## About me
 
-I'm a senior ML engineer and open-source contributor, with a particular interest in multi-modal AI agents.
+I'm an ML engineer and open-source contributor, with a particular interest in multi-modal AI agents.
 
 ## Open-source highlights
 MCP contributions:
